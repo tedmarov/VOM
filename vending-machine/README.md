@@ -1,10 +1,10 @@
 # Vending Machine (minimal .NET API)
 
-This is a minimal vending machine project scaffolded as a .NET 8 minimal API.
+This is a minimal vending machine project scaffolded as a .NET 10 minimal API.
 
 Getting started
 
-Prerequisites: .NET 8 SDK installed.
+Prerequisites: .NET 10 SDK installed.
 
 Run:
 
